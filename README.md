@@ -1,2 +1,2 @@
 # pyLB 
-Load balancer implementation in Python (Celery, MongoDB, Queues...)
+Load balancer implementation in Python (Celery, MongoDB, Flask, Round Robin...)
